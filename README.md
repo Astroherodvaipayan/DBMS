@@ -1,7 +1,8 @@
 # DBMS
 Hands down the best compiled way to learn about database systems and SQL
 
-<ins>**Key Features of DBMS**
+**Key Features of DBMS**<ins>
+
 </br>
 1.**Data modeling:** A DBMS provides tools for creating and modifying data models, which define the structure and relationships of the data in a database.
 
